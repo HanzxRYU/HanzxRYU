@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Tailwind CSS (Vanilla CSS tho) and HTML 5**
 
-- 📫 How to reach me **rafifhannan19702gmail.com**
+- 📫 Get touch with me at **rafifhannan19702gmail.com**
 
 - ⚡ Fun fact **i'm Freaky 👅**
 
