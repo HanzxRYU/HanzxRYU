@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rafifhannan19702gmail.com**
 
-- ⚡ Fun fact **i haven't any funfact :v**
+- ⚡ Fun fact **i'm Freaky 👅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
