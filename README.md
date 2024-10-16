@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H A N S</h1>
-<h3 align="center">An Indonesian Student</h3>
+<h3 align="center">Anomaly that originates from Indonesia.</h3>
 
 - 🌱 I’m currently learning **JavaScript, Tailwind CSS (Vanilla CSS tho) and HTML 5**
 
