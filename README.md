@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm H A N S</h1>
-
+<br>
 <h3 align="center">"Anomaly that originates from Indonesia."</h3>
 <br>
 <br>
+
 - 🌱 I’m currently learning **JavaScript, Tailwind CSS (Vanilla CSS tho) and HTML 5**
 
 - 📫 Let's get touch with me at **rafifhannan19702gmail.com**
