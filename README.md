@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **i'm freaky 👅**
 
-- 🏫 And I'm a student at **SMA Audzar Borading School**
+- 🏫 And I'm a student at **SMA Abudzar Borading School**
 
 
 <h3 align="left">Languages and Tools:</h3>
